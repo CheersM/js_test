@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+form{
+    text-align: center;
+}
+select{
+    padding: 15px 100px;
+    border-radius: 10px;
+    font-size: 24px;
+}
