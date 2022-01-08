@@ -7,6 +7,7 @@ form{
     text-align: center;
 }
 select{
+    outline: none;
     padding: 15px 100px;
     border-radius: 10px;
     font-size: 24px;
